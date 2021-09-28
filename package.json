@@ -1,0 +1,24 @@
+{
+    "name": "@stepfinance/serum-markets",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Registry of Serum Markets",
+    "scripts": {
+        "lint": "eslint src/markets.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/step-finance/serum-markets"
+    },
+    "bugs": {
+        "url": "https://github.com/step-finance/serum-markets/issues"
+    },
+    "homepage": "https://step.finance",
+    "devDependencies": {
+        "eslint": "^7.32.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-json": "^3.1.0",
+        "prettier": "^2.4.1"
+    }
+}
