@@ -837,5 +837,17 @@
     "address": "J4oPt5Q3FYxrznkXLkbosAWrJ4rZLqJpGqz7vZUL4eMM",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "LARIX/USDT",
+    "address": "BeF2PKq2jmTJraWEhP28H8BQHUVtuzTyFogtKkxi6D6",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
+  },
+  {
+    "name": "PRT/USDC",
+    "address": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
