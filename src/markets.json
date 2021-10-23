@@ -879,5 +879,11 @@
     "address": "G3Bss3a2tif6eHNzWCh14g5k2H4rwBAmE42tbckUWG5T",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "CAVE/USDC",
+    "address": "KrGK6ZHyE7Nt35D7GqAKJYAYUPUysGtVBgTXsJuAxMT",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
