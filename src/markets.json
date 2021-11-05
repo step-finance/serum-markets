@@ -867,5 +867,11 @@
     "address": "DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "MEOW/USDC",
+    "address": "Gne8eeLRXF4PgY3N3L2sMsaWDGJgoWZuPDTm7n6p1oe8",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
