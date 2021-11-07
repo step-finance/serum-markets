@@ -873,5 +873,11 @@
     "address": "Gne8eeLRXF4PgY3N3L2sMsaWDGJgoWZuPDTm7n6p1oe8",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "INU/USDC",
+    "address": "G3Bss3a2tif6eHNzWCh14g5k2H4rwBAmE42tbckUWG5T",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
