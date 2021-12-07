@@ -951,5 +951,11 @@
     "address": "BHqcTEDhCoZgvXcsSbwnTuzPdxv1HPs6Kz4AnPpNrGuq",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "SOLC/USDT",
+    "address": "HYM1HS6MM4E1NxgHPH4Wnth7ztXsYTpbB2Rh9raje8Xq",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
