@@ -1017,5 +1017,11 @@
     "address": "HCvX4un57v1SdYQ2LFywaDYyZySqLHMQ5cojq5kQJM3y",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
     "deprecated": false
+  },
+  {
+    "name": "MONGOOSE/USDC",
+    "address": "9d2NsCGUidYc4b4JD8vc9hbhm1HdTfGpCByUAUakGHCB",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "deprecated": false
   }
 ]
