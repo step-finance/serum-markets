@@ -1,5 +1,4 @@
-[
-  {
+[{
     "address": "GcoKtAmTy5QyuijXSmJKBtFdt99e6Buza18Js7j9AJ6e",
     "baseMintAddress": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
     "deprecated": false,
@@ -1194,6 +1193,13 @@
     "baseMintAddress": "J7WYVzFNynk9D28eBCccw2EYkygygiLDCVCabV7CupWL",
     "deprecated": false,
     "name": "MONGOOSE/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "76d1Gv8649Fhn7HtZTxaPCMFA4fYxaQ3jbna7pGMGA6",
+    "baseMintAddress": "Bqd2ujCTEzpKzfjb1FHL7FKrdM6n1rZSnRecJK57EoKz",
+    "deprecated": false,
+    "name": "HOTTO/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
