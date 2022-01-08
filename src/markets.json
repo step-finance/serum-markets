@@ -1201,5 +1201,12 @@
     "deprecated": false,
     "name": "HOTTO/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "DFdcGFcAVWZ3UgVgpbBChFKen3URZdZ8dmju8GTXQgCE",
+    "baseMintAddress": "RLBxxFkseAZ4RgJH3Sqn8jXxhmGoz9jWxDNJMh8pL7a",
+    "deprecated": false,
+    "name": "RLB/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
