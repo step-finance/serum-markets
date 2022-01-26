@@ -1308,6 +1308,13 @@
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
+    "address": "3MEdotKebT1nbPSNQDa596gwYsV8rtvhGdHe1iBogjJD",
+    "baseMintAddress": "B64haiHLQoWdrvcJqufRG5dEMms96rDpwuaTjYTihQEo",
+    "deprecated": false,
+    "name": "pyUSDC/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
     "address": "9WDPi1uZVxBwZY4NXy7A3nGfxAzxvNaS56iHk3cBhQ3U",
     "baseMintAddress": "PsyFiqqjiv41G7o5SMRzDJCu4psptThNR2GtfeGHfSq",
     "deprecated": false,
@@ -1326,6 +1333,20 @@
     "baseMintAddress": "Ae1aeYK9WrB2kP29jJU4aUUK7Y1vzsGNZFKoe4BG2h6P",
     "deprecated": false,
     "name": "OLDNINJA/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "AC11orBo1k5PFPyhjTj9o4KjcwD9b95hauSRtExy8eKv",
+    "baseMintAddress": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
+    "deprecated": false,
+    "name": "DINO/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "wtePW13tTkiuFH2R8qgGLVBdEqXUin61VhZpBWBZDVs",
+    "baseMintAddress": "2TxM6S3ZozrBHZGHEPh9CtM74a9SVXbr7NQ7UxkRvQij",
+    "deprecated": false,
+    "name": "DINOEGG/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
