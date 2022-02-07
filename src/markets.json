@@ -1404,5 +1404,33 @@
     "deprecated": false,
     "name": "POTATO/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "AdL6nGkPe3snPb7TEgSjaN8qCG493iYQqv4DeoCqH53F",
+    "baseMintAddress": "foodQJAztMzX1DKpLaiounNe2BDMds5RNuPC6jsNrDG",
+    "deprecated": false,
+    "name": "FOOOOOOD/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "2YqCaodHzKRwJ6pyS2boVVmrSmDXceyGPspLhXwjEUUb",
+    "baseMintAddress": "FZxUbyQ9oeFiSDaabw8KfAWACsDMQhbuxR9vm2Rh7Ewm",
+    "deprecated": false,
+    "name": "PHASE/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "2L3TXpA5ytXq8jFC7mwmbvvTNkFJM5HRYk2pvXXDgrVR",
+    "baseMintAddress": "FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq",
+    "deprecated": false,
+    "name": "FOXY/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "H3N8DN8DWH3FXDRhN38Yv9BgmBWVKmZz8QVkmdBjgRmv",
+    "baseMintAddress": "4tVnbp4KY8Ur6A9YQtZfs43r91LkFhdfAjot8wxw3uCF",
+    "deprecated": false,
+    "name": "PIXEL/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
