@@ -1432,5 +1432,12 @@
     "deprecated": false,
     "name": "PIXEL/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "HubRne1PhTa8ufcGRmS6sMJpbB5yY3BEykUuw8xXoAyy",
+    "baseMintAddress": "F3nefJBcejYbtdREjui1T9DPh5dBgpkKq7u2GAAMXs5B",
+    "deprecated": false,
+    "name": "AART/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
