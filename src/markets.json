@@ -1441,6 +1441,20 @@
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
+    "address": "CsMQXvG3iQiCWcHVoWDM3VxLHAEhAhj2LEuEAQ4h9wJN",
+    "baseMintAddress": "45eBLJUCQf1acXdBG8daBfUudy8T7V5gDTBpiE1iezsN",
+    "deprecated": false,
+    "name": "SOLP/USDT",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "qSUPh2yKgqfL9wLXkC6MthCRvVvbeLjBb5ihkwSpGX4",
+    "baseMintAddress": "3cCtnQcc81oUfjufBL6D1yXNqt99TPt8n4HinW9h58wP",
+    "deprecated": false,
+    "name": "STARTTREK/USDT",
+   "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+ {
     "address": "G5YMJ4xjvsuqkHN5Z9time5YNyNzZLEo2MsfmCYiaQHf",
     "baseMintAddress": "FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd",
     "deprecated": false,
