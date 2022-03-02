@@ -1259,13 +1259,6 @@
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
-    "address": "8VBCzWzcpwaE9GEQHvejRDy8mbQVgsFBzbz8KqPPdVKT",
-    "baseMintAddress": "GaAzf7jwEKTouDXJExH9TKfvX3Ae7fLaGwNuEajq7KsE",
-    "deprecated": false,
-    "name": "BARK/USDC",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
-  },
-  {
     "address": "6KyTH3KawCiY9Zvx3zfBdqfDXSuTfGAjytGFxuNN8vKM",
     "baseMintAddress": "6H87YFkp5LHyN3KzDXa5r3QYce7WTcwYJi9SqwH3TXkQ",
     "deprecated": false,
@@ -1452,9 +1445,9 @@
     "baseMintAddress": "3cCtnQcc81oUfjufBL6D1yXNqt99TPt8n4HinW9h58wP",
     "deprecated": false,
     "name": "STARTTREK/USDT",
-   "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
- {
+  {
     "address": "G5YMJ4xjvsuqkHN5Z9time5YNyNzZLEo2MsfmCYiaQHf",
     "baseMintAddress": "FZTfdpD9DzgqMDjgNrmShDsyd5MYkwQ4k1jLq1ecrmnd",
     "deprecated": false,
