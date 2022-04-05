@@ -1502,5 +1502,12 @@
     "deprecated": false,
     "name": "creatorpro/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "98RguBcn2ANceoN9w4XyNQLMo3TVWNPq3BZQyKFGY9TG",
+    "baseMintAddress": "66edZnAPEJSxnAK4SckuupssXpbu5doV57FUcghaqPsY",
+    "deprecated": false,
+    "name": "PRGC/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
