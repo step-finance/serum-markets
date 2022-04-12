@@ -1502,5 +1502,12 @@
     "deprecated": false,
     "name": "PRGC/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "GcuEE7dHtufcnivcKmXaFZm7HUy9cVrrKupu2LN8GbtK",
+    "baseMintAddress": "TKMKgSh3aADsmjr4yFWG52tkCQvmDxsQC1he1aBsi65",
+    "deprecated": false,
+    "name": "TKMK/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
