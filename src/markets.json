@@ -1467,5 +1467,12 @@
     "deprecated": false,
     "name": "JFI/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "9ZyhPpHwfFrXb6rqzng2hs2g3FnxpQDvKFfhNyM6Mj93",
+    "baseMintAddress": "Czt7Fc4dz6BpLh2vKiSYyotNK2uPPDhvbWrrLeD9QxhV",
+    "deprecated": false,
+    "name": "NESTA/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
