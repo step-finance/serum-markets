@@ -1133,13 +1133,6 @@
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
-    "address": "3DEfX1JPAPWKgeBW2XUr7Z1ztNNwbYhhD5EinGC7x1Lf",
-    "baseMintAddress": "7JYZmXjHenJxgLUtBxgYsFfoABmWQFA1fW3tHQKUBThV",
-    "deprecated": false,
-    "name": "WEED/USDC",
-    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
-  },
-  {
     "address": "8pJg7JGfvEfBc14a9wtfAi39doTEeyJHMwqdJrtxsqVx",
     "baseMintAddress": "Ac7GiHwC7vZU2y97GRh9rqCqqnKAAgopYrTAtKccHxUk",
     "deprecated": false,
@@ -1466,6 +1459,55 @@
     "baseMintAddress": "GePFQaZKHcWE5vpxHfviQtH5jgxokSs51Y5Q4zgBiMDs",
     "deprecated": false,
     "name": "JFI/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "1DeDcStP8yLorneK4wnaLokRCmGxFiSUSgUwT9V2tgj",
+    "baseMintAddress": "8fd5eUPMNHuyKRshFbfmKRAm2gowJ75m8WjT7tLio6J3",
+    "deprecated": false,
+    "name": "DLN/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "6Yxgcfs3oyZcGSxAemHscLJSZ9YWHymH7MummtiTQadc",
+    "baseMintAddress": "boomh1LQnwDnHtKxWTFgxcbdRjPypRSjdwxkAEJkFSH",
+    "deprecated": false,
+    "name": "BMA/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "D6ca2PqdmoeFGmwm6ryokFXxCEBzgRRNVXBrNqbywnqZ",
+    "baseMintAddress": "DiWunPY8GfsFthdDAwiRRtCgKCB5AEcFx9edDpxZoTyo",
+    "deprecated": false,
+    "name": "GMORNN/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "ABydcz3WA6JH4mMkuTLQwdqrRFuvrNrQd3J83uFM5oB",
+    "baseMintAddress": "DK6PWMyuZ4NMjsm9AWNCTMKrajQYrtfMjMJ3QauX2UH5",
+    "deprecated": false,
+    "name": "BITXBIT/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "8NXzq2GgXJBfXswhG46tQWTjt6NpiTsBseKs46yuTrVr",
+    "baseMintAddress": "GV3MjuGin8aTG6Rhc1vR1QFYp8gq5vW39jnNPLrbzmPi",
+    "deprecated": false,
+    "name": "creatorpro/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "98RguBcn2ANceoN9w4XyNQLMo3TVWNPq3BZQyKFGY9TG",
+    "baseMintAddress": "66edZnAPEJSxnAK4SckuupssXpbu5doV57FUcghaqPsY",
+    "deprecated": false,
+    "name": "PRGC/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "GcuEE7dHtufcnivcKmXaFZm7HUy9cVrrKupu2LN8GbtK",
+    "baseMintAddress": "TKMKgSh3aADsmjr4yFWG52tkCQvmDxsQC1he1aBsi65",
+    "deprecated": false,
+    "name": "TKMK/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   },
   {
