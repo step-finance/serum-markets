@@ -1537,5 +1537,12 @@
     "deprecated": false,
     "name": "DAPE/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "Hd5uEsj4fnEYsdPdY8ReptKoXGkUZYM9ZC5GHZcHkCBY",
+    "baseMintAddress": "GUtWHTy9N5Av4LTB5PJPn4ZTfxCB2tGiK7DJpS7y8F8S",
+    "deprecated": false,
+    "name": "AUR/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
