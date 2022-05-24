@@ -1544,5 +1544,12 @@
     "deprecated": false,
     "name": "AUR/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "7HrUmsVM7poJdjgoteTVzx3VMFyLcAhdR8JMbuFD6VNq",
+    "baseMintAddress": "5PmpMzWjraf3kSsGEKtqdUsCoLhptg4yriZ17LKKdBBy",
+    "deprecated": false,
+    "name": "HDG/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
