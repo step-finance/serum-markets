@@ -1558,5 +1558,12 @@
     "deprecated": false,
     "name": "DUST/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "AvVJcsk26dYHXS9Uya2tkDdSD3i59ubvo1qYKB2w2j5C",
+    "baseMintAddress": "7zhbkbKpGaUsJW7AD4yyAfGGoy53Xx2H3Ai5BKcwGKHw",
+    "deprecated": false,
+    "name": "NOM/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
