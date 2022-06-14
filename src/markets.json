@@ -1565,5 +1565,12 @@
     "deprecated": false,
     "name": "NOM/USDC",
     "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+  },
+  {
+    "address": "Hc4YSWQMii3smLVRacH1JbPVH65ifBtoj4rGjVWKXmAs",
+    "baseMintAddress": "9tzZzEHsKnwFL1A3DyFJwj36KnZj3gZ7g4srWp9YTEoh",
+    "deprecated": false,
+    "name": "ARB/USDC",
+    "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
   }
 ]
